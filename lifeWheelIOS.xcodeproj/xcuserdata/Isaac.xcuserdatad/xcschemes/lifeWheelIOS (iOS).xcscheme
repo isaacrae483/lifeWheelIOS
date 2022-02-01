@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6A1C52122722FF8F0091E1C9"
+               BuildableName = "lifeWheelIOS.app"
+               BlueprintName = "lifeWheelIOS (iOS)"
+               ReferencedContainer = "container:lifeWheelIOS.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6A1C52122722FF8F0091E1C9"
+            BuildableName = "lifeWheelIOS.app"
+            BlueprintName = "lifeWheelIOS (iOS)"
+            ReferencedContainer = "container:lifeWheelIOS.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
